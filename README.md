@@ -1,6 +1,6 @@
 # kafka-node-read-messages
 
-# Dependencies
+# Prerequisites
 
 1. Kafka must be running in your local machine to run this app that uses zookeeper port 2181.
 
